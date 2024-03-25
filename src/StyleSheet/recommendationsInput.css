@@ -1,0 +1,59 @@
+.text{
+    color: rgb(21, 41, 227);
+}
+
+.recommendationsContainer{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: 'center';
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.recommendationsCard {
+    background-color: white;
+    margin-top: 7%;
+    margin-bottom: 8%;
+    width: 40%;
+    height: 70%;
+    position: absolute;
+    border-radius: 1em;
+    box-shadow: 0 0.188em 1.550em rgb(156, 156, 156);
+    display: flex;
+   
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    
+}
+
+.recommendationsTitle{
+    margin-top: 15%;
+    text-align: center;
+}
+
+.recommendationsFields{
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.recommdropdowns{
+    
+    width: 100%;
+    margin-top: 10%;
+    margin-bottom:10%;
+   
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.recomlabels{
+    font-size:small;
+}
+.recombuttob{
+    color:b;
+}
+

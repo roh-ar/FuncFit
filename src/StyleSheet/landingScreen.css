@@ -1,0 +1,47 @@
+html{
+    margin:0;
+    box-sizing: border-box;
+    font-family:"LandingFont";
+    background-image: url('../images/welcomeBackground.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+@font-face {
+    font-family: "LandingFont";
+    src: url("../font/RolexLight.woff2");
+}
+
+
+.LandingNavbar{
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Logo{
+    padding-left: 10px;
+    color: white;
+}
+
+.LandingButtonsGroup{
+    display: flex;
+    justify-content: space-between;
+}
+
+.LandingButtons{
+    height: 50px;
+    width: 75px;
+    color: white;
+    padding: 10px;
+
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+}
