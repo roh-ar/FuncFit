@@ -6,12 +6,20 @@ FuncFit is an application designed to help individuals at all stages of their fi
 
 - **Easy User Login and Registration**: Sign in effortlessly using your existing Google account.
   ![User Login](Images/login.png "User Login")
+  <!--  -->
+
 - **User-Friendly Dashboard**: Track your workout history, plan upcoming sessions, and view daily metrics at a glance.
   ![Dashboard](Images/home.png "Dashboard")
+  <!--  -->
+
 - **Workout Catalog**: Explore a wide range of workouts tailored to improve various aspects of functional fitness.
   ![Workout Catalog](Images/exercise.png "Workout Catalog")
+  <!--  -->
+
 - **Workout Calendar**: Keep your fitness journey organized with a calendar that tracks and updates your workout schedule.
-  ![Workout Calendar](Images/calender.png "Workout Calendar")
+![Workout Calendar](Images/Calender.png "Workout Calendar")
+<!--  -->
+
 - **Expert Consultation**: Chat one-on-one with our experts to resolve queries and receive personalized advice.
 
 ## Benefits
